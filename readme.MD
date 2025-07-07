@@ -3,3 +3,6 @@
 * Dosa Flour
 * karam
 
+# Paneer masala dosa
+* Dosa batter
+*Oil
