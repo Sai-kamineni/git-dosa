@@ -7,3 +7,4 @@
 * Dosa batter
 *Oil
 * Ghee
+* Garam masala
