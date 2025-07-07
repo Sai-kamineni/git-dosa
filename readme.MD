@@ -9,3 +9,10 @@
 * oil
 * karam
 * Dosa flour
+
+
+# Special dosa
+* Dosa batter
+* Bombay chutney
+* podi
+* oil
