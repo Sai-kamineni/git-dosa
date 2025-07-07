@@ -6,3 +6,4 @@
 # Paneer masala dosa
 * Dosa batter
 *Oil
+* Ghee
