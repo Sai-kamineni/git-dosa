@@ -5,6 +5,6 @@
 
 # Paneer masala dosa
 * Dosa batter
-*Oil
+* Oil
 * Ghee
-* Garam masala
+* Mysore masala
